@@ -58,7 +58,7 @@ const simon = {
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=simonpaulboehm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SimonPaulBoehm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA)](https://git.io/streak-stats)
 
 </div>
 
