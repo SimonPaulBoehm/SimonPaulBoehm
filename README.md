@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&&logoColor=64FFDA)](https://simonpaulboehm.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&&logoColor=64FFDA)](https://SimonPaulBoehm.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-paul-b%C3%B6hm-442b79399?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwPmzDWdSREKzsfHv5d6XFQ%3D%3D)
 [![Email](https://img.shields.io/badge/EMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.paul.boehm+portfolioinquries@gmail.com)
 
@@ -53,8 +53,8 @@ const simon = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=simonpaulboehm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=CDD6F4&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonpaulboehm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SimonPaulBoehm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=CDD6F4&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonPaulBoehm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&langs_count=6" />
 
 <br/>
 
@@ -68,10 +68,10 @@ const simon = {
 
 <div align="center">
 
-[![NutKeeper](https://github-readme-stats.vercel.app/api/pin/?username=simonpaulboehm&repo=NutKeeper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/simonpaulboehm/Nutkeeper)
-[![Spotify Canvas Previewer](https://github-readme-stats.vercel.app/api/pin/?username=simonpaulboehm&repo=spotifycanvaspreviewer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/simonpaulboehm/spotifycanvaspreviewer)
+[![NutKeeper](https://github-readme-stats.vercel.app/api/pin/?username=SimonPaulBoehm&repo=NutKeeper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/SimonPaulBoehm/Nutkeeper)
+[![Spotify Canvas Previewer](https://github-readme-stats.vercel.app/api/pin/?username=SimonPaulBoehm&repo=spotifycanvaspreviewer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/SimonPaulBoehm/spotifycanvaspreviewer)
 
-[![birch-cli](https://github-readme-stats.vercel.app/api/pin/?username=simonpaulboehm&repo=mdconverter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/simonpaulboehm/mdconverter)
+[![birch-cli](https://github-readme-stats.vercel.app/api/pin/?username=SimonPaulBoehm&repo=mdconverter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/SimonPaulBoehm/mdconverter)
 
 </div>
 
@@ -81,7 +81,7 @@ const simon = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simonpaulboehm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SimonPaulBoehm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -89,9 +89,9 @@ const simon = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=simonpaulboehm&style=for-the-badge&color=64FFDA&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=SimonPaulBoehm&style=for-the-badge&color=64FFDA&labelColor=0D1117)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/simonpaulboehm?style=for-the-badge&color=64FFDA&labelColor=0D1117&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/SimonPaulBoehm?style=for-the-badge&color=64FFDA&labelColor=0D1117&logo=github)
 
 <br/><br/>
 
