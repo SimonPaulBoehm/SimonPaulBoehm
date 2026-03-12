@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Simon%20Böhm&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Open%20Source%20Builder%20%7C%20Systems%20Thinker&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=440&lines=Building+tools+developers+love+%F0%9F%9B%A0%EF%B8%8F;Open+source+contributor+%F0%9F%8C%B1;Obsessed+with+clean+abstractions;Currently+exploring+Rust+%2B+WASM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=440&lines=Building+tools+developers+love;Open+source+contributor;Obsessed+with+clean+abstractions;Currently+finding+new+projects;)](https://git.io/typing-svg)
 
 <br/>
 
