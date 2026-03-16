@@ -56,10 +56,6 @@ const simon = {
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SimonPaulBoehm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=CDD6F4&rank_icon=github" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonPaulBoehm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&langs_count=6" />
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SimonPaulBoehm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA)](https://git.io/streak-stats)
-
 </div>
 
 ---
