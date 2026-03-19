@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&&logoColor=64FFDA)](https://SimonPaulBoehm.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-paul-b%C3%B6hm-442b79399?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwPmzDWdSREKzsfHv5d6XFQ%3D%3D)
 [![Email](https://img.shields.io/badge/EMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.paul.boehm+portfolioinquiries@gmail.com)
-[![Buy Me A Coffe]([https://img.shields.io/badge/EMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black))](https://buymeacoffee.com/simonpaulboehm?status=1)
+[![Buy Me A Coffe](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/simonpaulboehm?status=1)
 
 </div>
 
