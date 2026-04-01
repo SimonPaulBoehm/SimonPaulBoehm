@@ -82,7 +82,7 @@ const simon = {
 <tr>
 <td>
 
-[![birch-cli](https://github-readme-stats.vercel.app/api/pin/?username=SimonPaulBoehm&repo=mdconverter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/SimonPaulBoehm/mdconverter)
+[![md-converter](https://github-readme-stats.vercel.app/api/pin/?username=SimonPaulBoehm&repo=mdconverter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CDD6F4&icon_color=64FFDA)](https://github.com/SimonPaulBoehm/mdconverter)
 
 </td>
 <td></td>
