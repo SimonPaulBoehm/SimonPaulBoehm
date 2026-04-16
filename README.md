@@ -36,7 +36,7 @@ const simon = {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,php,cs&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -44,7 +44,7 @@ const simon = {
 
 **Backend & Infra**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongo,docker,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongo,docker,rust,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
